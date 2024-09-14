@@ -19,7 +19,7 @@ About 1 month later. i created **magic-beta for testing new features**  and will
 so u can always get updates, could be just a little bit later(u can find it from my github log), it depends on what we are working on.
 
 ## Why access to sponsor only?
-it starts from some ppl in my community want to buy me a drink to support my work and thank me, so i create [afdian channel](https://afdian.net/a/weizard) and set up sponsors, but set it to the lowest price on afdian which is CNY 5(about $0.7) per month, i never expect to make money from this.
+it starts from some ppl in my community want to buy me a drink to support my work and thank me, so i create [afdian channel](https://afdian.com/a/weizard) and set up sponsors, but set it to the lowest price on afdian which is CNY 5(about $0.7) per month, i never expect to make money from this.
 
 In the end, i decided only access to sponsors, because i don't wanna fuck up new users.  (most of sponsors help me testing since alpha version and they all got access to this project, even they are not sponsor.)
 
