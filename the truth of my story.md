@@ -1,7 +1,7 @@
 # The Truth of My Story
 
 ## Who am I?
-hello, everyone, weizard here, im a self learn coder, "Magic project" is one of my hobby,
+hello, everyone, weizard here, im a self-taught coder, "Magic project" is one of my hobby,
 our company provide IDC structured cabling solution to contractor or system integrator in worldwide.
 that Faker_Dev guy in this channel is trying all way to recover his "reputation",
 now he pull me out and said that i was doing the same thing as he did, 
